@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 30px auto;
+}
+
+
+.left {
+    display: flex;
+    align-items: center;
+}
+
+.left img {
+    width: 50px;
+}
+
+.delete {
+    padding: 10px 20px;
+    background: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
